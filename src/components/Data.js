@@ -60,8 +60,6 @@ function Data(){
          handleInputChange={handleInputChange}
          handleFormSubmit={handleFormSubmit}
          />
-
-        {/* <input value={search} onChange={handleInputChange}/><button onClick={filterNum}>Filter by phone Number</button> */}
          <table className="table">
           <thead>
             <tr>

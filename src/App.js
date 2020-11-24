@@ -1,5 +1,4 @@
 import Header from "./components/Header"
-import Table from "./components/Table"
 import Data from "./components/Data"
 import React from "react";
 
